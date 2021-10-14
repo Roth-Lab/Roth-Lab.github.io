@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Chern | Roth-Lab</title>
+    <link>https://roth-lab.github.io/authors/kchern/</link>
+      <atom:link href="https://roth-lab.github.io/authors/kchern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Chern</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://roth-lab.github.io/authors/kchern/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kevin Chern</title>
+      <link>https://roth-lab.github.io/authors/kchern/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin | Roth-Lab</title>
+    <link>https://roth-lab.github.io/authors/admin/</link>
+      <atom:link href="https://roth-lab.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>admin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://roth-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>admin</title>
+      <link>https://roth-lab.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Lab first social event at Kitsilano Beach</title>
+      <link>https://roth-lab.github.io/post/social_kits/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://roth-lab.github.io/post/social_kits/</guid>
+      <description>&lt;h1 id=&#34;lab-first-social-event-at-kitsilano-beach-&#34;&gt;Lab first social event at Kitsilano Beach 👋👋👋👋👋👋&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
